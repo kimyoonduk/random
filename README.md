@@ -1,1 +1,1 @@
-# Tutorial for using Riot Games API (commented in Korean)
+### A Very Simple Tutorial for using the Riot Games API (commented in Korean)
